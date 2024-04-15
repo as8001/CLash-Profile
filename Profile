@@ -1,4 +1,5 @@
 [custom]
+surge_ruleset=🎯 国内网络,https://raw.githubusercontent.com/as8001/CLash-Profile/main/Customize
 surge_ruleset=🎯 国内网络,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 surge_ruleset=🎯 国内网络,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 surge_ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
@@ -18,7 +19,6 @@ surge_ruleset=🎯 国内网络,https://raw.githubusercontent.com/ACL4SSR/ACL4SS
 surge_ruleset=🎯 国内网络,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
 surge_ruleset=🎯 国内网络,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
 surge_ruleset=🎯 国内网络,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
-surge_ruleset=🎯 国内网络,https://raw.githubusercontent.com/as8001/CLash-Profile/main/Customize
 surge_ruleset=🎯 国内网络,[]GEOIP,CN
 surge_ruleset=🐟 其他网站,[]FINAL
 custom_proxy_group=🚀 全局设置`select`[]♻️ 自动选择`[]🚀 手动选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 新加坡节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🔑 专用线路`[]DIRECT
